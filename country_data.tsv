@@ -1,16 +1,16 @@
-id	name	stat1	stat2	stat3	stat4
-CHN	China	"1,111"	2A	3A	4A
-KHM	Cambodia	"2,222"	2B	3B	4B
-IDN	Indonesia	"3,333"	2C	3C	4C
-VNM	Vietnam	"4,444"	2D	3D	4D
-MMR	Myanmar	"5,555"	2E	3E	4E
-LAO	Laos	"6,666"	2F	3F	4F
-GHA	Ghana	"7,777"	2G	3G	4G
-KEN	Kenya	"8,888"	2H	3H	4H
-LSO	Lesotho	"9,999"	2I	3I	4I
-RWA	Rwanda	"10,101"	2J	3J	4J
-ZAF	South Africa	"11,111"	2K	3K	4K
-SWZ	Eswatini	"12,121"	2L	3L	4L
-TZA	Tanzania	"13,131"	2M	3M	4M
-ZMB	Zambia	"14,141"	2N	3N	4N
-HND	Honduras	"15,151"	2O	3O	4O
+id	name	stat1	stat2	stat3	stat4	stat5
+CHN	China	"1,111"	2A	3A	4A	5A
+KHM	Cambodia	"2,222"	2B	3B	4A	5A
+IDN	Indonesia	"3,333"	2C	3C	4C	5C
+VNM	Vietnam	"4,444"	2D	3D	4D	5D
+MMR	Myanmar	"5,555"	2E	3E	4E	5E
+LAO	Laos	"6,666"	2F	3F	4F	5F
+GHA	Ghana	"7,777"	2G	3G	4G	5G
+KEN	Kenya	"8,888"	2H	3H	4H	5H
+LSO	Lesotho	"9,999"	2I	3I	4I	5I
+RWA	Rwanda	"10,101"	2J	3J	4J	5J
+ZAF	South Africa	"11,111"	2K	3K	4K	5K
+SWZ	Eswatini	"12,121"	2L	3L	4L	5L
+TZA	Tanzania	"13,131"	2M	3M	4M	5M
+ZMB	Zambia	"14,141"	2N	3N	4N	5N
+HND	Honduras	"15,151"	2O	3O	4O	5O
