@@ -1,16 +1,16 @@
-id	name	population
-CHN	China	1
-KHM	Cambodia	2
-IDN	Indonesia	3
-VNM	Vietnam	4
-MMR	Myanmar	5
-LAO	Laos	6
-GHA	Ghana	7
-KEN	Kenya	8
-LSO	Lesotho	9
-RWA	Rwanda	10
-ZAF	South Africa	11
-SWZ	Eswatini	12
-TZA	Tanzania	13
-ZMB	Zambia	14
-HND	Honduras	15
+id	name	stat1	stat2	stat3	stat4
+CHN	China	1A	2A	3A	4A
+KHM	Cambodia	1B	2B	3B	4B
+IDN	Indonesia	1C	2C	3C	4C
+VNM	Vietnam	1D	2D	3D	4D
+MMR	Myanmar	1E	2E	3E	4E
+LAO	Laos	1F	2F	3F	4F
+GHA	Ghana	1G	2G	3G	4G
+KEN	Kenya	1H	2H	3H	4H
+LSO	Lesotho	1I	2I	3I	4I
+RWA	Rwanda	1J	2J	3J	4J
+ZAF	South Africa	1K	2K	3K	4K
+SWZ	Eswatini	1L	2L	3L	4L
+TZA	Tanzania	1M	2M	3M	4M
+ZMB	Zambia	1N	2N	3N	4N
+HND	Honduras	1O	2O	3O	4O
