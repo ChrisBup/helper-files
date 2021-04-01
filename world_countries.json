@@ -10657,7 +10657,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "Swaziland" },
+      "properties": { "name": "Eswatini" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11207,7 +11207,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "name": "United Republic of Tanzania" },
+      "properties": { "name": "Tanzania" },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
